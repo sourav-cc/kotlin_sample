@@ -21,6 +21,6 @@ class LoginActivityModule {
     internal fun provideLoginPresenter(presenter: LoginPresenter<LoginMVPView, LoginMVPInteractor>)
             : LoginMVPPresenter<LoginMVPView, LoginMVPInteractor> = presenter
 
-
+lkj;lkmlmlmlm
 
 }
